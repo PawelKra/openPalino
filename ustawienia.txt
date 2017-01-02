@@ -1,0 +1,22 @@
+[main]
+taxaFile=taxalist.txt
+lastproj=
+histSep=|
+histFile=_history.txt
+notTotalSum=i;x
+sumAP=t;s
+sumNAP=t;s;d;h
+
+[keyshortcuts]
+F1= pp
+F2= ab
+F3= qq
+F4=alf
+F5=ggg
+F6=ac
+F7=ab
+F8=coc
+F9=arl
+F10=bub
+
+

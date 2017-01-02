@@ -1,0 +1,4 @@
+*.pyc
+.ropeproject/
+.cache/
+.ui

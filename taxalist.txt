@@ -1,0 +1,549 @@
+No	Hum	SC	Species
+1	t	ab	Abies alba
+2	t	ac	Acer
+555	h	acd	Aconitum
+104	h	ad	Adoxa moschatellina
+281	h	agc	Agrimonia
+349	h	aga	Agropyron t.
+350	h	agb	Agrostemma githago
+282	h	alg	Alchemilla t.
+74	l	ai	Alisma
+522	l	alb	Alisma plantago-aquatica
+351	h	alc	Allium ursinum t.
+352	h	ald	Allium vineale t.
+3	t	al	Alnus undiff.
+109	s	alf	Alnus viridis
+499	n	am	Amphitrema
+273	h	anj	Anagallis arvensis
+111	h	and	Anchusa t.
+162	d	anf	Andromeda polifolia cf.
+666	h	anm	Androsacae t.
+354	h	an	Anemone t.
+137	h	ane	Antennaria t.
+27	h	ach	Anthemis t.
+356	h	anc	Anthericum
+695	n	cpp	Copepoda T28
+216	h	anh	Anthericum liliago
+217	h	ani	Anthericum ramosum
+624	n	anl	Anthoceros
+610	h	ank	Anthriscus t.
+193	h	ang	Anthyllis
+53	h	ap	Apiaceae undiff.
+501	n	ara	Arcella
+138	h	are	Arctium
+647	d	arj	Arctostaphylos
+548	d	ard	Arctostaphylos alpina
+163	d	arf	Arctostaphylos uva-ursi
+656	h	arl	Armeria elongata
+260	h	arg	Armeria maritima
+261	h	arh	Armeria maritima A t.
+262	h	ari	Armeria maritima B t.
+683	h	arm	Arnica t.
+649	h	ar	Artemisia
+348	l	acc	Arum/Acorus
+357	h	arc	Aruncus sylvestris
+103	h	asb	Asarum europaeum
+500	t	asa	Assulina
+542	h	bi	Aster t.
+378	h	coc	Asteraceae undiff. 
+194	h	asc	Astragalus
+195	h	asd	Astragalus alpinus
+611	h	ase	Astrantia t.
+106	p	atb	Athyrium
+384	p	dre	Athyrium filix-femina
+358	h	ava	Avena t.
+360	h	bea	Bellis t.
+107	s	bec	Berberis vulgaris
+23	s	bn	Betula nana t.
+706	p	ggg	konidium
+4	t	bb	Betula undiff.
+409	t	fff	Tilletia sphagni T27
+110	h	bob	Boraginaceae
+361	p	bo	Botrychium
+687	p	eee	Assulina seminulum T32B
+705	t	ddd	Helicoon pluriseptatum T30
+35	h	cra	Brassicaceae undiff.
+362	h	bua	Bupleurum
+108	l	buc	Butomus umbellatus
+363	s	bub	Buxus sempervirens
+364	l	caa	Calla palustris
+365	l	cab	Callitriche
+24	d	cv	Calluna vulgaris
+366	h	cad	Caltha t.
+554	h	cap	Calystegia sepium
+367	h	cae	Campanula
+29	h	ca	Cannabaceae
+368	t	ccc	Arcella flavum T31
+489	h	cah	Cannabis/Humulus
+369	h	cai	Carduus t.
+370	t	aaa	Microthyrium sp. T8
+551	p	bbb	jasne
+5	t	cr	Carpinus betulus
+30	h	cal	Caryophyllaceae undiff.
+139	h	cei	Centaurea cf. kotschyana
+31	h	cea	Centaurea cyanus
+371	h	cec	Centaurea jacea t.
+372	h	ceb	Centaurea scabiosa t.
+171	h	cej	Centaurium
+373	h	ced	Cerastium t.
+458	n	cef	Ceratophyllum-hairs
+173	h	ce	Cerealia undiff.
+112	h	ceg	Cerinthe
+164	d	chd	Chamaedaphne
+667	h	chi	Chamaenerion angustifolium
+678	n	chj	Charcoal
+246	h	che	Chelidonium majus
+33	h	ch	Chenopodiaceae
+507	h	chb	Chenopodium album cf.
+252	h	chf	Chimaphila
+375	h	chc	Chrysanthemum t. cf.
+295	h	chg	Chrysosplenium
+41	h	lia	Cichoriaceae undiff. 
+612	n	sss	soneczko
+241	h	cib	Circaea
+515	h	cod	Cirsium t.
+140	t	hhh	T18/T19
+81	l	cla	Cladium mariscus
+517	l	coa	Comarum palustre
+621	x	cop	Concealed
+379	h	coe	Convolvulus arvensis
+150	s	col	Cornus mas
+485	s	cof	Cornus sanguinea
+151	h	com	Cornus suecica
+196	h	con	Coronilla
+526	x	ska	Corroded
+380	h	cog	Corydalis
+247	h	coo	Corydalis solida t.
+147	h	coj	Corylaceae
+17	s	coh	Corylus avellana
+148	s	cok	Corylus/Myrica
+557	s	coi	Cotoneaster
+149	p	crc	Cryptogramma crispa
+381	h	cua	Cuscuta europaea t.
+143	h	cub	Cuscuta lupuliformis
+113	h	cyc	Cynoglossum
+36	h	cya	Cyperaceae undiff.
+382	h	cyb	Cyperus
+383	h	daa	Dactylis t.
+608	s	dab	Daphne
+650	s	dad	Daphne mezereum
+541	x	zd	Degraded
+278	h	de	Delphinium t.
+476	h	dia	Dianthus t.
+233	p	dic	Diphasium alpinum
+434	p	lye	Diphasium complanatum typ
+234	p	did	Diphasium tristachyum
+699	h	dif	Dipsacaceae
+155	h	dib	Dipsacus
+498	l	dra	Drosera anglica
+157	l	drh	Drosera intermedia
+497	l	dro	Drosera rotundifolia
+532	h	drc	Dryas octopetala
+545	p	dd	Dryopteris
+385	p	drf	Dryopteris carthusiana t.
+105	p	at	Dryopteris filix-mas
+141	h	ecb	Echinops
+386	h	eca	Echium vulgare
+496	h	ela	Elatine
+540	h	ely	Elymus t.
+25	d	em	Empetrum
+158	d	emb	Empetrum cf. nigrum
+159	d	emc	Empetrum cf.hermaphrodit.
+160	s	ep	Ephedra
+301	s	epa	Ephedra distachya
+546	s	epd	Ephedra fragilis t.
+387	h	epb	Epilobium
+242	h	epf	Epilobium angustifolium
+388	h	epc	Epipactis palustris
+56	p	eq	Equisetum
+165	d	erd	Erica tetralix
+161	d	er	Ericaceae undiff.
+152	l	erb	Eriophorum t.
+389	h	eua	Euphorbia
+300	h	eub	Euphrasia
+529	s	eva	Evonymus europaea
+452	h	pae	Fabaceae undiff.
+37	h	faa	Fagopyrum
+6	t	ff	Fagus sylvatica
+174	h	fe	Festuca t.
+55	p	fm	Filicales monolete
+38	h	fi	Filipendula
+283	h	frb	Fragaria
+18	s	fr	Frangula alnus
+7	t	fx	Fraxinus excelsior
+248	h	fu	Fumaria officinalis t.
+219	h	gac	Gagea lutea t.
+220	h	gad	Gagea pratensis t.
+218	h	gab	Gagea t.
+47	h	rua	Galium t.
+197	h	gef	Genista t.
+168	h	gec	Gentiana nivalis t.
+169	h	ged	Gentiana pneumonanthe t. 
+170	h	gee	Gentianella campestris t.
+390	h	gea	Geranium
+391	h	gm	Geum
+221	h	glc	Gladiolus t.
+392	h	gla	Glechoma t.
+393	l	glb	Glyceria t.
+394	h	gna	Gnaphalium t.
+177	s	grb	Grossulariaceae
+395	h	gyb	Gypsophila fastigiata
+126	h	gyc	Gypsophila muralis
+302	s	he	Hedera helix
+198	h	hek	Hedysarum
+521	n	heb	Heleopera
+136	h	hej	Helianth.oeland.ssp.alp.t
+470	h	hed	Helianthemum canum t.
+398	h	heg	Helianthemum nummular. t.
+397	h	hef	Helianthemum oelandicum t
+40	h	hh	Helianthemum undiff.
+114	t	heh	Habrotrocha angusticollis
+613	h	hel	Heracleum t.
+127	h	hei	Herniaria t.
+677	s	hie	Hippophae rhamnoides
+19	n	hi	Hippophae-hairs
+182	l	hic	Hippuris vulgaris
+399	h	hoa	Hordeum t.
+696	h	hod	Hordeum t. cf.
+503	l	ho	Hottonia palustris
+484	h	hu	Humulus lupulus cf.
+235	p	hub	Huperzia selago
+183	l	hye	Hydrocharis morsus-ranae
+513	l	hya	Hydrocotyle vulgaris
+185	p	hyf	Hymenophyllum
+181	h	hyd	Hypericum
+400	h	hyb	Hypericum perforatum t.
+711	n	hf	Hyphae fragments
+528	n	hy	Hystrix 
+530	s	il	Ilex aquifolium
+401	h	im	Impatiens
+689	x	inj	Indeterminate
+100	i	ii	Indicator
+679	i	inh	Indicator-charcoal
+680	n	ini	Indicator-points
+187	h	irb	Iris
+186	l	ir	Iris pseudoacorus t.
+188	l	isb	Isoetes echinospora
+67	l	isa	Isoetes lacustris
+427	h	jaa	Jasione montana
+303	t	jua	Juglans
+20	s	jj	Juniperus communis
+428	h	kk	Knautia arvensis
+268	h	ko	Koenigia islandica
+65	h	laa	Lamiacae undiff.
+16	t	lx	Larix
+199	h	lag	Lathyrus maritimus
+200	h	lah	Lathyrus palustris
+201	h	lai	Lathyrus silvester
+516	h	lae	Lathyrus undiff.
+483	d	lea	Ledum palustre
+429	l	lem	Lemna
+495	p	lyf	Lepidotis inundata
+102	h	lec	Leucojum/Galanthus
+243	s	lil	Ligustrum vulgare
+228	h	lii	Liliaceae undiff.
+222	h	lih	Lilium
+601	h	lim	Linaria
+118	h	lif	Linnea borealis
+229	h	lij	Linum austriacum
+430	h	lic	Linum catharticum t.
+230	h	lik	Linum perenne
+431	h	liu	Linum usitatissimum
+115	h	lie	Lithospermum t.
+535	l	lid	Litorella uniflora
+661	l	lok	Lobelia cf.
+166	d	lof	Loiseleuria
+486	s	lo	Lonicera
+119	s	lob	Lonicera nigra
+120	s	loc	Lonicera nigra/xylosteum
+122	s	loe	Lonicera periclymenum
+121	s	lod	Lonicera xylosteum t.
+232	s	loh	Loranthus 
+202	h	log	Lotus cf. corniculatus
+653	h	loj	Lotus cf. uliginosus
+533	h	pac	Lotus t.
+505	h	lya	Lychnis flos-cuculi
+457	h	vie	Lychnis viscaria 
+603	h	lyo	Lycium
+493	p	lyc	Lycopodium annotinum
+433	p	lyd	Lycopodium clavatum
+58	p	lyb	Lycopodium undiff.
+508	h	lac	Lycopus t.
+274	h	lym	Lysimachia nemorum
+435	h	lyi	Lysimachia nummularia
+275	h	ly	Lysimachia t.
+436	l	lyj	Lysimachia thyrsiflora
+437	h	lyk	Lysimachia vulgaris t.
+438	h	lyl	Lythrum
+223	h	mad	Majanthemum bifolium
+544	t	mac	Malus t.
+238	h	mae	Malva
+203	h	mee	Medicago falcata
+204	h	mef	Medicago sativa
+440	p	mm	Briales
+509	h	lab	Mentha t.
+75	l	me	Menyanthes trifoliata
+443	h	med	Mercurialis perennis
+253	h	mo	Moneses
+664	x	mt	Montia cf.
+625	n	mu	Musci
+116	h	myd	Myosotis
+439	h	maa	Myosoton aquaticum cf.
+15	s	my	Myrica gale
+68	l	myh	Myriophyllum alternifolium
+69	l	ms	Myriophyllum spicatum
+676	l	myf	Myriophyllum spicatum/verticillatum
+70	l	myc	Myriophyllum verticillatum
+224	h	na	Narthecium ossifragum
+520	n	ne	Nebela
+239	l	nub	Nuphar
+72	l	nua	Nuphar luteum
+240	l	nuc	Nuphar pumilum
+446	l	nn	Nymphaea alba
+447	l	nyc	Nymphaea candida
+622	n	nyf	Nymphaeaceae-hairs
+623	n	nyg	Nymphaeaceae-idioblasts
+236	l	nye	Nymphoides peltata
+614	h	oeb	Oegopodium t.
+448	l	oea	Oenanthe t.
+534	h	pad	Onobrychis t.
+449	h	on	Ononis t.
+450	p	opa	Ophioglossum
+225	h	or	Ornithogalum t.
+244	p	os	Osmunda regalis
+245	h	ox	Oxalis acetosella
+269	h	oxb	Oxyria digyna t.
+648	h	pa	Papaver
+451	h	paa	Papaver argemone
+249	h	pag	Papaver radicatum
+250	h	pah	Papaver rhoeas t.
+701	h	paj	Papaveraceae
+472	h	paf	Parnassia palustris
+459	n	pe	Pediastrum
+538	n	ped	Pediastrum boryanum
+626	n	peg	Pediastrum simplex
+504	h	pd	Pedicularis
+556	h	pee	Peplis portula
+453	h	pec	Petasites t.
+615	h	pef	Peucedanum t.
+714	n	pha	Phaeoceros laevis
+455	h	phb	Phleum t.
+479	l	phc	Phragmites australis t.
+8	t	pc	Picea abies
+237	p	pif	Pilularia globulifera
+402	h	pib	Pimpinella
+403	h	piq	Pinguicula
+305	t	pie	Pinus cembra t.
+9	t	pp	Pinus sylvestris t.
+254	h	pih	Pirola
+205	h	pid	Pisum
+702	h	plo	Plantago
+255	h	plf	Plantago alpina
+256	h	plg	Plantago coronopus
+43	h	pll	Plantago lanceolata
+404	h	plm	Plantago major
+44	h	pl	Plantago major/media
+258	h	pli	Plantago maritima s.str.
+257	h	plh	Plantago maritima s.l.
+405	h	plb	Plantago media
+259	h	plj	Plantago tenuiflora
+469	h	pld	Pleurospermum austriacum
+39	h	pu	Poaceae undiff.
+263	h	pon	Polemonium caeruleum
+264	h	poo	Polygala
+655	h	pow	Polygala vulgaris
+406	h	poa	Polygonatum verticillat.t
+703	h	pox	Polygonum
+267	l	pos	Polygonum amphibium
+407	h	pob	Polygonum aviculare t.
+408	h	poc	Polygonum bistorta
+265	h	poq	Polygonum bistorta/viviparum
+266	h	por	Polygonum lapathifolium
+410	h	poe	Polygonum persicaria t.
+60	p	pog	Polypodium vulgare
+539	n	pop	Polytrichum
+10	t	po	Populus 
+292	t	pou	Populus balsaminifera t.
+293	t	pov	Populus tremula t.
+73	l	pot	Potamogeton
+412	l	pom	Potamogeton s. Cologeton
+475	l	pol	Potamogeton s.Eupotamogeton
+511	h	rob	Potentilla t.
+518	h	pra	Primula
+414	h	prb	Primula farinosa t.
+276	h	prf	Primula veris t.
+272	h	pre	Primulaceae
+415	h	prc	Prunella t.
+306	t	prd	Prunus t.
+59	p	pta	Pteridium aquilinum
+416	h	pua	Pulmonaria
+417	h	pub	Pulsatilla
+11	t	qq	Quercus
+231	h	rad	Radiola linoides
+490	h	ra	Ranunculus
+46	h	rac	Ranunculus acris t.
+279	h	rae	Ranunculus arvensis
+668	h	raf	Ranunculus flammula t.
+359	l	baa	Ranunculus trichophyllus 
+304	n	nys	Rebedded
+280	h	re	Reseda
+21	s	rha	Rhamnus catharticus
+512	h	scf	Rhinanthus
+421	l	rhc	Rhynchospora alba
+307	s	ri	Ribes
+178	s	rib	Ribes alpinum/nigrum
+179	t	jjj	Arcella arenaria/catinus
+180	t	kkk	Gelasiospora sp.
+285	s	roc	Rosa t.
+422	h	roa	Rosaceae undiff.
+423	s	rub	Rubus
+287	h	rum	Rubus chamaemorus
+271	h	rx	Rumex
+48	h	ruc	Rumex acetosa t.
+536	t	lll	Endophlyctis lobata T13
+49	h	rud	Rumex acetosella t.
+424	l	rue	Rumex aquaticus t.
+320	h	ruf	Rumex cf. obtusifolius
+543	h	ruj	Rumex conglomeratus t.
+425	h	rug	Rumex domesticus t.
+270	h	ruk	Rumex maritimus t.
+321	h	rs	Rumex undiff.
+291	l	run	Rupia maritima t.
+128	h	saq	Sagina
+101	l	sam	Sagittaria sagittifolia
+308	t	sab	Salix glauca t.
+547	d	san	Salix herbacea t.
+309	p	bot	Botrytis cinerea
+466	s	sae	Salix polaris t.
+22	s	ss	Salix undiff.
+191	h	sar	Salvia 
+686	p	saba	Salvinia natans
+123	h	sao	Sambucus ebulus cf.
+488	s	sah	Sambucus nigra t.
+124	s	sap	Sambucus nigra/racemosa
+531	s	sag	Sambucus racemosa
+311	s	sm	Sambucus t.
+288	h	sat	Sanguisorba minor
+322	h	sai	Sanguisorba officinalis
+662	h	saz	Sarothamnus cf.
+192	h	sas	Satureja
+467	h	sak	Saussurea t.
+665	h	saaa	Saxifraga
+654	h	say	Saxifraga aizoides
+296	h	sau	Saxifraga cernua t.
+323	h	saj	Saxifraga cf. hirculus
+299	h	sax	Saxifraga cf. nivalis
+297	h	sav	Saxifraga granulata t.
+324	h	sal	Saxifraga oppositifolia t.
+298	h	saw	Saxifraga stellaris t.
+156	h	sci	Scabiosa
+657	h	sck	Scabiosa columbaria
+519	l	seb	Scheuchzeria palustris
+326	l	sca	Schoenus t.
+226	h	scj	Scilla
+153	l	scg	Scirpus maritimus
+154	l	sch	Scirpus t.
+506	h	scc	Scleranthus annuus
+325	h	scd	Scleranthus perennis
+491	h	sce	Scrophulariaceae
+50	h	se	Secale cereale
+144	h	see	Sedum
+146	h	seg	Sedum/Sempervivum
+64	p	sec	Selaginella selaginoides
+145	h	sef	Sempervivum
+142	h	sed	Senecio cf. palustris
+61	h	sn	Senecio t.
+289	h	sie	Sibbaldia procumbens
+129	h	sic	Silene acaulis
+651	h	sig	Silene alba cf.
+441	h	mea	Silene dioica t.
+130	h	sid	Silene nutans cf.
+328	h	sia	Silene undiff.
+329	h	soa	Solanum dulcamara
+330	h	sob	Solanum nigrum t.
+51	h	soc	Solidago t.
+313	t	sod	Sorbus
+290	t	soe	Sorbus aucuparia
+604	l	spf	Sparganiaceae
+605	l	spg	Sparganium emersum t.
+514	l	spa	Sparganium erectum t.
+606	h	lly	Lychnis t.
+494	l	ty	Sparganium t.
+331	h	spc	Spergula arvensis t.
+332	h	spd	Spergularia
+709	h	spdc	Spergularia cf.
+79	p	sp	Sphagnum
+333	h	sta	Stachys t.
+314	s	stb	Staphyllea
+334	h	std	Stellaria
+134	h	sth	Stellaria cf. nemorum
+131	h	ste	Stellaria graminea
+132	h	stf	Stellaria holostea
+133	h	stg	Stellaria media
+135	h	sti	Stellaria palustris
+184	l	stj	Stratiotes aloides
+708	n	wszv	Subst. org.
+659	h	su	Succisa pratensis t.
+172	h	sw	Swertia perennis
+117	h	sy	Symphytum
+312	s	sib	Syringa vulgaris
+553	h	ta	Taraxacum t.
+12	t	tx	Taxus baccata
+710	n	te	Tetraedron
+52	h	tha	Thalictrum
+607	p	thd	Thelypteris palustris 
+294	h	thc	Thesium
+468	h	thb	Thymus t.
+315	t	tib	Tilia cordata
+316	t	tic	Tilia platyphyllos
+14	t	tt	Tilia undiff.
+80	h	toa	Tofieldia
+627	h	trn	Trapa natans
+206	h	trf	Trifolium medium
+207	h	trg	Trifolium montanum t.
+208	h	trh	Trifolium pratense t.
+210	h	trj	h
+209	h	tri	Trifolium spadiceum
+669	h	trk	Trifolium striatum t.
+510	h	tm	Trifolium undiff.
+189	l	tre	Triglochin
+338	h	trc	Triticum diccocum cf.
+337	h	tr	Triticum t.
+693	h	trm	Triticum t. cf.
+339	h	trd	Trollius
+62	h	tua	Tussilago t.
+78	l	tyb	Typha latifolia
+13	t	uu	Ulmus
+343	h	urb	Urtica dioica
+54	h	ur	Urtica undiff.
+344	h	urc	Urtica urens
+537	l	urd	Utricularia
+345	d	vaa	Vaccinium t.
+617	h	vac	Valeriana dioica
+618	h	vad	Valeriana officinalis t.
+346	h	vab	Valeriana undiff.
+619	h	vae	Valerianella dentata
+502	x	vv	Varia
+227	h	veb	Veratrum cf.
+602	h	vec	Verbascum t.
+347	h	vea	Veronica
+317	s	vi	Viburnum opulus t.
+682	s	vim	Viburnum t.
+211	h	vih	Vicia cracca
+212	h	vii	Vicia faba
+492	h	vib	Vicia t.
+213	h	vij	Vicia/Lathyrus
+620	h	vik	Viola
+456	h	vic	Viola arvensis t.
+473	h	vid	Viola palustris t.
+318	s	vif	Viscum
+319	s	vig	Vitis vinifera
+658	p	cyp	Cystopteris fragillis
+465	h	xa	Xanthium t. cf.
+176	h	rbb	Rubiaceae undiff.
+715	t	pix	Pinus haploxylon
+716	h	cch	Cichoriaceae undiff.
+717	p	rcc	Rumex acetosa/acetosella
+718	t	gela	Gelasinospora sp. T1
+719	x	sone	soneczko
+720	x	cll	Callidina angusticollis
