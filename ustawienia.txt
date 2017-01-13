@@ -1,11 +1,13 @@
 [main]
 taxaFile=taxalist.txt
+autosave=20
 lastproj=
 histSep=|
 histFile=_history.txt
 notTotalSum=i;x
 sumAP=t;s
 sumNAP=t;s;d;h
+lifeFormSort=t;s;d;h
 
 [keyshortcuts]
 F1= pp
